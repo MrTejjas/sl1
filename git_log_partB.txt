@@ -1,0 +1,100 @@
+commit 1a16c4b679d7a9cb52e03a66e37be8e26a53f2a2
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 22:05:47 2024 +0530
+
+    re adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf01ea2
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 ORACLE
+\ No newline at end of file
+
+commit fc1518a31833eb3984009e637631dafed758584a
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 21:57:25 2024 +0530
+
+    deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index 30ccac2..175bff7 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+-tejas bhalerao CSE
++stejas bhalerao CSE
+ sardar ji ki rasoi 
+-ZNMD
+\ No newline at end of file
++ZNMD
++Blue
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index cf01ea2..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2026 ORACLE
+\ No newline at end of file
+
+commit b12ba6970926dbf4e2dfadf3731f691293e0d6f2
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 21:48:16 2024 +0530
+
+    commiting the passing year and a job
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..cf01ea2
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2026 ORACLE
+\ No newline at end of file
+
+commit 0d94d23b818cf926cf67b83104ccc800ecdaf530
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 21:35:40 2024 +0530
+
+    added favourite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index 9ded334..30ccac2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+ tejas bhalerao CSE
++sardar ji ki rasoi 
++ZNMD
+\ No newline at end of file
+
+commit 04f545734794a6c90076e32036fcaba15c427b8c
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 21:13:09 2024 +0530
+
+    now has my major
+
+diff --git a/file1.txt b/file1.txt
+index ebf92d3..9ded334 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-tejas bhalerao BT22CSE054
++tejas bhalerao CSE
+
+commit f365417bad2db9489c762a107e4188681d3e4b5d
+Author: MrTejjas <tbhalerao6.022@gmail.com>
+Date:   Tue Mar 12 21:08:36 2024 +0530
+
+    commiting a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..ebf92d3
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++tejas bhalerao BT22CSE054
